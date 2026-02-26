@@ -1,0 +1,16 @@
+
+
+[
+  {
+    "id": 1,
+    "name": "Sarah Chen",
+    "email": "sarah.chen@globaltech.com",
+    "password": "password123"
+  },
+  {
+    "id": 2,
+    "name": "Michael Rodriguez",
+    "email": "michael.rodriguez@startup.io",
+    "password": "securepass456"
+  }
+]
