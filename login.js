@@ -1,3 +1,4 @@
+//Login.js is updated from remote - USA developer
 // Get form elements
 const loginForm = document.getElementById('loginForm');
 const emailInput = document.getElementById('email');
