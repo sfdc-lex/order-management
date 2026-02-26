@@ -1,4 +1,4 @@
-//Updated from local - India developer
+//Updating  in remote -USA
 //Updating in local feature/signup branch  - Inida developer
 // Signup form logic
 document.addEventListener('DOMContentLoaded', function() {
