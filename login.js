@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //Updating login code in local feature/login branch - India developer
+=======
+//Login.js is updated from remote - USA developer
+>>>>>>> a257d7f46da98a1ba34e625eca903a16046bb5d1
 // Get form elements
 const loginForm = document.getElementById('loginForm');
 const emailInput = document.getElementById('email');
