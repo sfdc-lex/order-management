@@ -1,3 +1,4 @@
+//Updated from local - India developer
 //Updating in local feature/signup branch  - Inida developer
 // Signup form logic
 document.addEventListener('DOMContentLoaded', function() {
